@@ -6,5 +6,8 @@ $(document).ready(function(){
 		
 		
 	})
-	
+    //Show Color Div When Click On The Gear
+    $(".gear-check").click(function(){
+        $(".color-option").fadeToggle();
+    })
 })
