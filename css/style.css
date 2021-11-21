@@ -2,13 +2,51 @@
 /* CSS Document */
 
 body{
-	padding-top:55px;
+	padding-top:70px;
 	background-color: #d0d0d0;
 	height: 5000px;
 	font-family: none;
 
 }
 /****Start Overridig Bootstrap****/
+/*Starte Section Box*/
+
+.option-box{
+    position: fixed;
+    top: 100px;
+    left: 0;
+    z-index: 9999
+}
+.option-box .color-option{
+    float: left;
+    background: #010101;
+    color: #FFFFFF;
+    padding: 0;
+    width: 200px;
+    border: 4px solid #EC880A;
+    display: none
+   
+    
+}
+.option-box .color-option ul li{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background: #EC880A;
+    margin-right: 4px;
+    
+}
+.option-box .list-unstyled{
+   padding-left: 4px;
+}
+.option-box .gear-check{
+    padding: 5px;
+    background: #EC880A;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+/*Starte Section Box*/
 /* Start Navbar */
 
 .navbar-dark .navbar-nav 
@@ -441,9 +479,10 @@ body{
     border: 1px solid #454541;
     margin-bottom: 5px;
     
-    
 }
 /*End Ultimate Footer Section--*/
+
+
 
 
 /* End Section Stats ---------------------------------*/
