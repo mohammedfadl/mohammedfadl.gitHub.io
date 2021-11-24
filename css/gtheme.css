@@ -1,0 +1,80 @@
+/****Start Default Themes*****/
+/* Start Navbar */
+/*Acteiv Link*/
+.navbar-dark .navbar-nav 
+.show > .nav-link, 
+.navbar-dark .navbar-nav 
+.nav-link.active{
+	background-color: #198754;	
+}
+/*Acteiv Link*/
+/* Start Navbar */
+.navbar-dark .navbar-brand{
+	color: #198754;
+}
+/* End Navbar */
+.dropdown-menu{
+	background-color: #198754bf;
+}
+.carousel-indicators [data-bs-target]{
+	background-color: #198754;	
+}
+.about1 h1 span{
+	color: #198754
+}
+/* Start Section Features*/
+.features .feat .bi:before{	
+	color: #198754;
+
+}
+/* Start Testimonials Carousel*/
+.testimonials span{
+	color: #198754
+}
+.testimonials .carousel-indicators [data-bs-target]{
+	border: 4px solid #198754;
+}
+/* Start Section Price Table*/
+.price_table .price_box:hover p{
+	border: 2px solid #198754;
+	
+}
+/* Start Section Our Team */
+.our-team .rounded-circle{
+	
+	border: 2px solid #198754;
+}
+.person .bi:before{
+    color: rgb(13 110 253);
+}
+/* End Section Our Team */
+.subscribe button{
+	background: #198754;
+}
+.statistics .stats:hover{
+	color: #198754;
+}
+.our-skills .btn-primary {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+}.footer h3{
+	color: #a0ec0a
+}
+.footer .copyright span{
+    color: #a0ec0a
+}
+.price_table .price_box p{
+    background: rgb(25 135 84 / 56%);
+}
+.option-box .color-option{
+     border: 4px solid #198754;
+}
+.option-box .color-option ul li{
+    background: #198754;
+    
+}
+.option-box .gear-check{
+    background: #198754;
+}
+/*****End Default Themes****/
