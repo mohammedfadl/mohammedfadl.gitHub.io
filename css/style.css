@@ -454,10 +454,8 @@ body{
 }
 /*End Ultimate Footer Section--*/
 /*Start section Loading*/
-
-/*End section Loading*/
 .loading-overlay{
-    background: #EC880A;
+    background: #333;
     color: #FFFFFF;
     left: 0;
     top: 0;
@@ -474,9 +472,9 @@ body{
 }
 
 .cube1, .cube2 {
-  background-color: #333;
-  width: 20px;
-  height: 20px;
+  background-color: #EC880A;
+  width: 50px;
+  height: 50px;
   position: absolute;
   top: 0;
   left: 0;
@@ -515,8 +513,27 @@ body{
     -webkit-transform: rotate(-360deg);
   }
 }
-
+/*End section Loading*/
+/*Start Scroll top */
+#scroll-top{
+    width: 50px;
+    height: 40px;
+    color: #DDDDDD;
+    background-color: #777777;
+    text-align: center;
+    position: fixed;
+    right: 15px;
+    bottom: 10px;
+    z-index: 9999;
+    display: none;
+    cursor: pointer;
+}
+#scroll-top:hover{
+    background-color:#444444 
+}
+/*End Scroll top */
 
 /* End Section Stats ---------------------------------*/
+
 
 /****End Overridig Bootstrap****/
