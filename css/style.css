@@ -159,6 +159,7 @@ body{
 	background: #eee;
 	padding-top: 40px;
 	padding-bottom: 40px;
+    overflow: hidden
 }
 .price_table h1{
 	margin-bottom: 40px
