@@ -219,18 +219,18 @@ body{
 	padding-bottom: 40px;
 }
 .our-team .person{
-	margin-bottom: 40px
+	margin-bottom: 40px;
 }
 .our-team h1{
 	margin-bottom: 60px;
 }
 .our-team p{
-	color: #eae4f5
+	color: #eae4f5;
 }
 .our-team .rounded-circle{
-	width: 165px;
-    height: 167px;
-	margin: 10px;
+	width: 153px;
+    height: 153px;
+	margin: 35px;
 }
 /* End Section Our Team ---------------------------------*/
 /* Start Section Subscribe -------------------------------*/
@@ -309,7 +309,7 @@ body{
     overflow: hidden;
     background-color: #e9ecef;
     border-radius: 10px;
-	margin-bottom: 16px
+	margin-bottom: 16px;
 }
 .our-skills .progress-bar{
 	font-weight: bold;	
@@ -372,7 +372,7 @@ body{
 }
 .footer a
 {
-	color: #AAAAAA
+	color: #AAAAAA;
 }
 .footer a:hover
 {
@@ -499,7 +499,7 @@ body{
     cursor: pointer;
 }
 #scroll-top:hover{
-    background-color:#444444 
+    background-color:#444444;
 }
 /*End Scroll top */
 /* End Section Stats ---------------------------------*/

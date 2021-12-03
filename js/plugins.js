@@ -1,4 +1,5 @@
-/*global $,jQuery,alerl*/
+// JavaScript Document
+
 $(document).ready(function () {
     "use strict";
     
